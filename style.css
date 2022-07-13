@@ -1,0 +1,35 @@
+body
+{
+background-color: lightblue;
+text-align: center;
+}
+h1
+{
+color: darkblue;
+border-style: solid;
+border-color: red;
+border-width:5px;
+padding:10px;
+}
+a
+{
+color: orange;
+font-size: 20px;
+border-style: solid;
+border-color: yellow;
+border-width: 2px;
+padding: 10px;
+border-raidus: 20px;
+}
+p{
+color: darkend;
+word-spacing: 10px;
+font-variant: small-caps;
+font-size: 20px;
+font-family: Arial;
+}
+img
+{
+ width: 300px; 
+  height: 200px;
+}
